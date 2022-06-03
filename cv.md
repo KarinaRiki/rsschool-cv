@@ -1,9 +1,11 @@
 **<h1>Karyna Kurylovich</h1>**
 <br>
+
 **<h2>Contact information:</h2>**
 **Phone:** +375298757340 <br>
 **E-mail:** riki.kara0309@gmail.com
 <br> <br>
+
 **<h2>Information about me:</h2>**
 
 I'm a student of Brest State University named after A. S. Pushkin. <br>
@@ -31,4 +33,4 @@ Output the maximum number.
 ```
 
 **<h2>English language:</h2>**
-A2 - B1 ( some tests show the level A2, others - B1git
+A2 - B1 ( some tests show the level A2, others - B1).
