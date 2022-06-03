@@ -6,8 +6,12 @@
 <br> <br>
 **<h2>Information about me:</h2>**
 
-I'm a student of Brest State University named after A. S. Pushkin. My speciality at the university is "economic cybernetics". My strengths: I'm a fast learner, I easily assimilate new information, have a good visual memory. I have a strong sense of competition.
-<br> <br>
+I'm a student of Brest State University named after A. S. Pushkin. <br>
+ My speciality at the university is "economic cybernetics". <br>
+ My strengths: I'm a fast learner, I easily assimilate new information, <br>
+ have a good visual memory. I have a strong sense of competition. 
+<br> 
+
 **<h2>Skills:</h2>** 
 * HTML5, CSS, JavaScript, C# ( at university)
 * C++ (at school)
@@ -27,4 +31,4 @@ Output the maximum number.
 ```
 
 **<h2>English language:</h2>**
-A2 - B1 ( some tests show the level A2, others - B1).
+A2 - B1 ( some tests show the level A2, others - B1git
