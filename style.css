@@ -1,0 +1,14 @@
+.photo{
+    width: 400px;
+    flex:auto;
+}
+span{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+li{
+    font-weight: lighter;
+    font-size: 15px;
+    color:black;
+}
