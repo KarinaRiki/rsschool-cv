@@ -1,14 +1,45 @@
+body {
+    background: whitesmoke;
+    width: 1500px;
+  }
 .photo{
-    width: 400px;
+    width: 500px;
     flex:auto;
+    position: absolute;
+    top: 100px;
+    left: 1010px;
+    border: 3px solid black;
+    padding: 1px;
 }
-span{
+h2{
     font-size: 25px;
     font-weight: bold;
     color: black;
+    text-align: left;
 }
-li{
+ul{
     font-weight: lighter;
     font-size: 15px;
     color:black;
+    text-align: left;
 }
+h1 {
+    font: normal bold Arial, sans-serif;
+    font-variant: small-caps;
+    color: black;
+    text-align: center;
+    line-height: 20px;
+}
+p{
+    font-size: 15px;
+    font-weight: lighter;
+    color: black;
+    text-align: left;
+}
+code{
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+}
+
