@@ -42,4 +42,8 @@ code{
     color: black;
     text-align: left;
 }
+.img{
+    width: 300px;
+    flex:auto;
+}
 
